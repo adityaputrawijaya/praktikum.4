@@ -12,7 +12,7 @@ lalu tambahkan else untuk menambah aksi untuk menentukan bahwa x lebih besar dar
       print('Bilangan terbesar = ', y)
 lalu hasil runing nya seperti gambar berikut:
 
-![gambar](gambarlab/rid1)
+![gambar](gambarlab/rid1.png)
  
 
 
