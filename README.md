@@ -17,7 +17,7 @@ lalu tambahkan else untuk menambah aksi untuk menentukan bahwa x lebih besar dar
 dan saat running kita diminta untuk memasukan bilangan pertama lalu bilangan kedua,      
 lalu hasil runing nya seperti gambar berikut:
 
-![gambar](gambarlab4/rid1.png)
+![gambar](gambar1/dit1.png)
 
 ## latihan 2
 
@@ -60,7 +60,8 @@ else:
 dan saat runing kita sebut bilangan yang inin kita ururkan 
 lalu hasil runing nya seperti gambar berikut:
 
-![gambar](gambarlab4/rid2.png)
+![gambar](gambar1/dit2.png)
+
 
 ## latihan 3
 
@@ -85,7 +86,8 @@ print("ini diluar pernyataan if")
 
 maka runingannya akan seperti gambar berikut:
 
-![gambar](gambarlab4/rid3.png)
+![gambar](gambar1/dit3.png)
+
 
 ## latihan 4
 
@@ -106,8 +108,7 @@ for i in range(n):
 setelah runing akan diminta masukan nilai n, disini saya memasukan nilai n-nya 12
 dan hasil runningannya akan seperti gambar berikut:
 
-![gambar](gambarlab4/rid4.png)
-
+![gambar](gambar1/dit4.png)
 
 
 
